@@ -15,7 +15,7 @@ npm install @kotsutsumi/next-build-exclude
 
 ```ts
 /** @type {import('next').NextConfig} */
-import nextBuildExclude from 'next-build-exclude'
+import nextBuildExclude from '@kotsutsumi/next-build-exclude'
 const nextConfig = {
     buildExclude: {
         // evacuationDir: '.next-build-exclude' // optional
