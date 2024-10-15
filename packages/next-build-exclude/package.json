@@ -1,10 +1,19 @@
 {
-  "name": "next-build-exclude",
+  "name": "@kotsutsumi/next-build-exclude",
   "version": "1.0.0",
   "description": "Exclude the target at build time with Next.js",
   "main": "src/index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "next.js",
+    "nextjs",
+    "exclude",
+    "build"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotsutsumi/next-build-exclude.git"
+  },
   "author": "Kazuhiro Kotsutsumi <kotsutsumi@gmail.com>",
   "license": "MIT",
   "dependencies": {
